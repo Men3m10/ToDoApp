@@ -1,15 +1,16 @@
-# Expo Router Example
+# ToDo App
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+Simple ToDo App with ReactNative .
 
 ## 🚀 How to use
 
 ```sh
-npx create-react-native-app -t with-router
+npx expo start
 ```
 
 ## 📝 Notes
+install all package in package.json before running the app by using
+```sh
+npm inatall
+```
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
-- [Request for Comments](https://github.com/expo/router/discussions/1)
